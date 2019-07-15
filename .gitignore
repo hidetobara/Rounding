@@ -1,0 +1,8 @@
+﻿.vs/
+*.suo
+Client/Library/
+Client/Temp/
+
+bin/
+obj/
+
